@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tarea Android</string>
+    <string name="Nombre_ET">Nombre</string>
+    <string name="Telefono">Teléfono</string>
+    <string name="Email">Email</string>
+    <string name="Descripcion">Descripción</string>
+    <string name="botonEnviar">Siguiente</string>
+    <string name="errorCampo">Este campo es obligatorio</string>
+    <string name="errorVacio">No ingresaste nombre</string>
+    <string name="botonEditar">Editar datos</string>
+
+</resources>
